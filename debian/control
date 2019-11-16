@@ -9,7 +9,7 @@ Homepage: https://github.com/ubuntucinnamonremix/ubuntucinnamon-environment
 
 Package: ubuntucinnamon-environment
 Architecture: all
-Depends: ${misc:Depends}, ubuntucinnamon-desktop, ubuntucinnamon-artwork
+Depends: ${misc:Depends}, ubuntucinnamon-desktop
 Description: The environment for the Ubuntu Cinnamon desktop.
  The Ubuntu Cinnamon Environment is the Ubuntu Cinnamon desktop
  but comes with photos, and other applications that fit your touch at
