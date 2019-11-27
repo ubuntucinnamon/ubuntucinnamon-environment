@@ -3,7 +3,6 @@ Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 Section: misc
 Priority: important
 Build-Depends: debhelper (>= 12)
-Rules-Requires-Root: yes
 Standards-Version: 4.4.0
 Homepage: https://github.com/ubuntucinnamonremix/ubuntucinnamon-environment
 
