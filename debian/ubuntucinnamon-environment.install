@@ -1,0 +1,3 @@
+ubuntucinnamon-symbolic.png /usr/share/cinnamon/theme
+ubuntucinnamon-symbolic.png /usr/share/icons/hicolor/scalable/apps
+/etc/lightdm/lightdm.conf.d
