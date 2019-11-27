@@ -1,0 +1,19 @@
+ubuntucinnamon-environment (0.0.3-1) eoan; urgency=medium
+
+  * Fixed gsettings overrides
+  * Fixed install directories
+  * Made improvements
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 27 Nov 2019 16:06:13 -0500
+
+ubuntucinnamon-environment (0.0.2-1) eoan; urgency=medium
+
+  * Added lightdm configuration files
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 20:48:47 -0500
+
+ubuntucinnamon-environment (0.0.1-1) eoan; urgency=medium
+
+  * Initial release
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 17:36:43 -0500
