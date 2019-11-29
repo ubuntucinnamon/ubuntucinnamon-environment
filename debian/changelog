@@ -1,3 +1,12 @@
+ubuntucinnamon-environment (0.0.7-1) eoan; urgency=medium
+
+  * Removed old calamares so there is one instead of two
+  * Added sound events
+  * Made panel height '34'
+  * Made clock include seconds and the date
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 29 Nov 2019 14:02:54 -0500
+
 ubuntucinnamon-environment (0.0.6-1) eoan; urgency=medium
 
   * Fixed desktop icons overrides
