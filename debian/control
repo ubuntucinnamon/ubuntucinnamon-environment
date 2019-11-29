@@ -1,0 +1,16 @@
+Source: ubuntucinnamon-environment
+Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+Section: misc
+Priority: important
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.4.0
+Homepage: https://github.com/ubuntucinnamonremix/ubuntucinnamon-environment
+
+Package: ubuntucinnamon-environment
+Architecture: all
+Depends: ${misc:Depends}, cinnamon-core, nemo, ubuntucinnamon-wallpapers, kimmo-gtk-theme, kimmo-icon-theme
+Description: The environment for the Ubuntu Cinnamon desktop.
+ The Ubuntu Cinnamon Environment is the Ubuntu Cinnamon desktop
+ but comes with photos, and other applications that fit your touch at
+ first glance, and is customizable to work anywhere, anytime you want at
+ anytime you need.
