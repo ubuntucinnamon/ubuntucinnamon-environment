@@ -1,3 +1,16 @@
+ubuntucinnamon-environment (0.1-1) focal; urgency=medium
+
+  * Eoan to Focal
+
+  * Moved .desktop files to its new own folder
+
+  * Updated new logo
+
+  * Made symbolic relative icon size to '1'
+  * Changed panel size to '28' to fit 1366x768. Final decision for panel size.
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 14 Dec 2019 11:01:19 -0500
+
 ubuntucinnamon-environment (0.0.9-1) eoan; urgency=medium
 
   * Fixed schema type error 'panels-height'
