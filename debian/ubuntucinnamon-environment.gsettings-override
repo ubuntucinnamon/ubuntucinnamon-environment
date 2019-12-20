@@ -24,7 +24,6 @@ desktop-layout='true:true'
 theme='Kimmo-Dark'
 
 [org.cinnamon]
-panels-height=['1:28']
 app-menu-icon-name='ubuntucinnamon-symbolic'
 app-menu-label='Menu'
 date-format='%c'

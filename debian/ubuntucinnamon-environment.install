@@ -1,5 +1,5 @@
-ubuntucinnamon-symbolic.svg /usr/share/cinnamon/theme
-ubuntucinnamon-symbolic.svg /usr/share/icons/hicolor/scalable/apps
+ubuntucinnamon-symbolic.png /usr/share/cinnamon/theme
+ubuntucinnamon-symbolic.png /usr/share/icons/hicolor/scalable/apps
 /desktop-files/calamares.desktop /usr/share/cinnamon/applications
 /desktop-files/mpv.desktop /usr/share/cinnamon/applications
 /etc/lightdm/lightdm.conf.d
