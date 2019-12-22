@@ -1,7 +1,15 @@
+ubuntucinnamon-environment (0.1.2-1) focal; urgency=medium
+
+  * Removed calamares.desktop (shouldn't have been there)
+
+  * Moved ubuntucinnamon-symbolic.png to desktop-files folder.
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 21 Dec 2019 19:51:07 -0500
+
 ubuntucinnamon-environment (0.1.1-1) focal; urgency=medium
 
   * Changed ubuntucinnamon-symbolic to a PNG
-  
+
   * Removed panel height gschema. It is not a good idea to have it-reason is complicated.
 
  -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 20 Dec 2019 18:40:13 -0500
