@@ -4,7 +4,10 @@ Section: misc
 Priority: important
 Build-Depends: debhelper (>= 12)
 Standards-Version: 4.4.0
-Homepage: https://github.com/ubuntucinnamonremix/ubuntucinnamon-environment
+Rules-Requires-Root: no
+Homepage: https://github.com/Ubuntu-Cinnamon-Remix/
+Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-environment
+Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-environment.git
 
 Package: ubuntucinnamon-environment
 Architecture: all
