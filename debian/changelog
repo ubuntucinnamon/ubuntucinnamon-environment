@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (0.1.4-1) focal; urgency=medium
+
+  * UI Freeze - Add new wallpaper
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 18 Mar 2020 19:18:22 -0500
+
 ubuntucinnamon-environment (0.1.3-1) focal; urgency=medium
 
   * Updated homepage due to organization creation
