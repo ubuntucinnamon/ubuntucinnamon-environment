@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (0.1.6-1) focal; urgency=low
+
+  * Add cinnamon sounds
+  * Give copyright credit to Linux Mint
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 07 Apr 2020 12:23:02 -0400
+
 ubuntucinnamon-environment (0.1.5-1) focal; urgency=medium
 
   * Get rid of GNOME's startup applications

@@ -3,3 +3,5 @@
 /desktop-files/mpv.desktop /usr/share/cinnamon/applications
 /desktop-files/gnome-session-properties.desktop /usr/share/cinnamon/applications
 /etc/lightdm/lightdm.conf.d
+
+/usr/share/cinnamon/sounds
