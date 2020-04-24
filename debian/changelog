@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (0.1.7-1) groovy; urgency=medium
+
+  * Welcome to the Groovy Gorilla! Let the fun begin!
+  * Update standards version to 4.5.0
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 11:02:25 -0400
+
 ubuntucinnamon-environment (0.1.6-1) focal; urgency=low
 
   * Add cinnamon sounds
