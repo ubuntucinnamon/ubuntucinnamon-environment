@@ -1,0 +1,18 @@
+#!/bin/sh
+# Basically remove all the Debian Wallpapers.
+#
+# When meta installs the cinnamon packages and everything-the debian
+# wallpapers from when packaged gets bundled up in them. For the Ubuntu
+# Cinnamon Environment, this is not needed and therefore should be
+# removed.
+#
+# As for the Cinnamon DE is built on GNOME, we keep the GNOME
+# wallpapers as they fit with the default themes such as Adwaita, and
+# therefore has a right to stay.
+
+# Remove the physical actual wallpapers-the directory is only used by
+# the debian wallpapers instead of in usr/share/backgrounds
+rm -r /usr/share/wallpapers
+
+# Remove the XML files generated
+rm /usr/share/gnome-background-properties/debian-*
