@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (0.1.8.1-1) groovy; urgency=medium
+
+  * Change ubuntucinnamon-symbolic.png to an svg (Solves: #1)
+  * Change kimmo-gtk-theme, kimmo-icon-theme to add "all"
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2020 16:29:50 -0400
+
 ubuntucinnamon-environment (0.1.8-1) groovy; urgency=medium
 
   * New update to Kimmo Themes
