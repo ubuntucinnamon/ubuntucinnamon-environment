@@ -1,7 +1,2 @@
-/desktop-files/ubuntucinnamon-symbolic.svg /usr/share/cinnamon/theme
-/desktop-files/ubuntucinnamon-symbolic.svg /usr/share/icons/hicolor/scalable/apps
-/desktop-files/mpv.desktop /usr/share/cinnamon/applications
-/desktop-files/gnome-session-properties.desktop /usr/share/cinnamon/applications
-/etc/lightdm/lightdm.conf.d
-
-/usr/share/cinnamon/sounds
+/etc
+/usr

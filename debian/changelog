@@ -1,3 +1,14 @@
+ubuntucinnamon-environment (0.1.9-1) groovy; urgency=medium
+
+  * Revert svg to png-it breaks the icon (doesn't work)
+
+  * Add new environment-live package for ownership permissions with
+  * cinnamon-remix live user
+
+  * Simplify Debian Packaging
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 11 May 2020 11:59:00 -0400
+
 ubuntucinnamon-environment (0.1.8.1-1) groovy; urgency=medium
 
   * Change ubuntucinnamon-symbolic.png to an svg (Solves: #1)
