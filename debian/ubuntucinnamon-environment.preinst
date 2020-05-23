@@ -1,0 +1,21 @@
+#!/bin/sh
+
+# Start: set -e to abort script on error
+set -e
+
+# Replace Cinnamon-Layout icon with a more Cinnamon one.
+#
+# Cinnamon-Layout is made by Wasta-Linux and it's icon is
+# more Wasta looking-to fit the icon theme without breaking
+# anything we fix it here.
+#
+# This replaces the icon with our cs-panel.svg.
+#
+# This is a preinst-so there won't be any errors during installation,
+# and so this can be copied through the .install file.
+
+# Remove the icon.
+rm /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg
+
+# Debhelper: Add token
+#DEBHELPER#

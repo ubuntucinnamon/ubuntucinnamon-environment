@@ -1,3 +1,17 @@
+ubuntucinnamon-environment (0.1.9.1-1) groovy; urgency=medium
+
+  * Attempt to fix live session auto-chown
+
+  * Add lintian override for png image
+
+  * Pre-inst script hopefully fixes cinnamon-layout icon
+  * Add -e flag to scripts
+  * Add debhelper tag in scripts
+
+  * Remove compat and add debhelper-compat as build dep
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 22 May 2020 17:25:48 -0400
+
 ubuntucinnamon-environment (0.1.9-1) groovy; urgency=medium
 
   * Revert svg to png-it breaks the icon (doesn't work)
