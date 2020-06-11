@@ -3,7 +3,7 @@
 # Start: set -e to abort script on error
 set -e
 
-# Basically remove all the Debian Wallpapers.
+# Basically remove all the Debian Junk and fix Cinnamon-Layout icon.
 #
 # When meta installs the cinnamon packages and everything-the debian
 # wallpapers from when packaged gets bundled up in them. For the Ubuntu
@@ -13,6 +13,9 @@ set -e
 # As for the Cinnamon DE is built on GNOME, we keep the GNOME
 # wallpapers as they fit with the default themes such as Adwaita, and
 # therefore has a right to stay.
+#
+# For Layout icon-Wasta-Linux makes it and their icon doesn't fit with
+# our icon theme-so we replace it.
 
 # Remove the physical actual wallpapers-the directory is only used by
 # the debian wallpapers instead of in usr/share/backgrounds
@@ -20,6 +23,22 @@ rm -r /usr/share/wallpapers
 
 # Remove the XML files generated
 rm /usr/share/gnome-background-properties/debian-*
+
+# Cherrypick the plymouth themes from Debian
+rm -r /usr/share/plymouth/themes/debian-themes
+rm -r /usr/share/plymouth/themes/futureprototype
+rm -r /usr/share/plymouth/themes/joy
+rm -r /usr/share/plymouth/themes/lines
+rm -r /usr/share/plymouth/themes/moonlight
+rm -r /usr/share/plymouth/themes/softwaves
+rm -r /usr/share/plymouth/themes/spacefun
+
+# Remove the icon
+rm /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg
+
+# Copy our new icon (cs-panel.svg in our theme) there in case above fails
+# because the file was already overwritten by debuild
+cp /usr/share/icons/hicolor/scalable/categories/cs-panel.svg /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg
 
 # Debhelper: Add token
 #DEBHELPER#
