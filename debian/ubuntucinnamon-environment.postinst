@@ -25,7 +25,6 @@ rm -r /usr/share/wallpapers
 rm /usr/share/gnome-background-properties/debian-*
 
 # Cherrypick the plymouth themes from Debian
-rm -r /usr/share/plymouth/themes/debian-themes
 rm -r /usr/share/plymouth/themes/futureprototype
 rm -r /usr/share/plymouth/themes/joy
 rm -r /usr/share/plymouth/themes/lines

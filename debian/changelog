@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (0.2.1-1) groovy; urgency=medium
+
+  * Fix postinst script
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 24 Jun 2020 19:30:40 -0400
+
 ubuntucinnamon-environment (0.2-1) groovy; urgency=medium
 
   * Move LightDM Theming to ubuntucinnamon-artwork package
