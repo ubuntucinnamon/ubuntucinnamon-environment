@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Start: set -e to abort script on error
 set -e
@@ -22,12 +22,12 @@ set -e
 rmDirs=("/usr/share/wallpapers" "/usr/share/gnome-background-properties/debian-*" "/usr/share/plymouth/themes/futureprototype" "/usr/share/plymouth/themes/joy" "/usr/share/plymouth/themes/lines" "/usr/share/plymouth/themes/moonlight" "/usr/share/plymouth/themes/softwaves" "/usr/share/plymouth/themes/spacefun")
 
 for d in ${rmDirs[@]}; do
-  if [[ -f d]] then
+  if [[ -f d ]]; then
     rm -r d
   fi
-fi
+done
 
-if [[ -f /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg]]
+if [[ -f /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg ]]
 then
   rm /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg
 fi
@@ -36,3 +36,5 @@ cp /usr/share/icons/hicolor/scalable/categories/cs-panel.svg /usr/share/icons/hi
 
 # Debhelper: Add token
 #DEBHELPER#
+
+

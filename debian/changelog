@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (0.2.3-1) groovy; urgency=medium
+
+  * Postinst script: fix script and convert to bash
+  
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 03 Jul 2020 18:16:52 -0400
+
 ubuntucinnamon-environment (0.2.2-1) groovy; urgency=medium
 
   * Postinst script: Look for files before removing them.
