@@ -19,24 +19,19 @@ set -e
 
 # Remove the physical actual wallpapers-the directory is only used by
 # the debian wallpapers instead of in usr/share/backgrounds
-rm -r /usr/share/wallpapers
+rmDirs=("/usr/share/wallpapers" "/usr/share/gnome-background-properties/debian-*" "/usr/share/plymouth/themes/futureprototype" "/usr/share/plymouth/themes/joy" "/usr/share/plymouth/themes/lines" "/usr/share/plymouth/themes/moonlight" "/usr/share/plymouth/themes/softwaves" "/usr/share/plymouth/themes/spacefun")
 
-# Remove the XML files generated
-rm /usr/share/gnome-background-properties/debian-*
+for d in ${rmDirs[@]}; do
+  if [[ -f d]] then
+    rm -r d
+  fi
+fi
 
-# Cherrypick the plymouth themes from Debian
-rm -r /usr/share/plymouth/themes/futureprototype
-rm -r /usr/share/plymouth/themes/joy
-rm -r /usr/share/plymouth/themes/lines
-rm -r /usr/share/plymouth/themes/moonlight
-rm -r /usr/share/plymouth/themes/softwaves
-rm -r /usr/share/plymouth/themes/spacefun
+if [[ -f /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg]]
+then
+  rm /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg
+fi
 
-# Remove the icon
-rm /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg
-
-# Copy our new icon (cs-panel.svg in our theme) there in case above fails
-# because the file was already overwritten by debuild
 cp /usr/share/icons/hicolor/scalable/categories/cs-panel.svg /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg
 
 # Debhelper: Add token
