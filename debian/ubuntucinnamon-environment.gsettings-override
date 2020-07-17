@@ -61,3 +61,6 @@ theme-name="LinuxMint"
 
 [org.cinnamon.desktop.default-applications.terminal]
 exec='gnome-terminal'
+
+[org.gnome.gedit.preferences.editor]
+highlight-current-line=false
