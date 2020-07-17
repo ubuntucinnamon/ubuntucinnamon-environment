@@ -25,7 +25,7 @@ theme='Kimmo-Dark'
 [org.cinnamon]
 app-menu-icon-name='ubuntucinnamon-symbolic'
 app-menu-label='Menu'
-date-format='%c'
+date-format='%a, %h %d %Y%l:%M %p'
 
 [org.cinnamon.sounds]
 close-file="/usr/share/cinnamon/sounds/close.oga"
