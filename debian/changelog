@@ -1,7 +1,21 @@
+ubuntucinnamon-environment (0.2.4-1) groovy; urgency=medium
+
+  * Remove live package
+
+  * Update gschemas
+  * Disable gedit highlight
+  * Update to a more common date format
+  * Run dialog through Super+R
+  * Screen reader through Alt+Super+S
+  * Nemo prefixes are now Binary
+  * Nemo sidebar width is now 200px
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 23 Jul 2020 13:48:59 -0400
+
 ubuntucinnamon-environment (0.2.3-1) groovy; urgency=medium
 
   * Postinst script: fix script and convert to bash
-  
+
  -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 03 Jul 2020 18:16:52 -0400
 
 ubuntucinnamon-environment (0.2.2-1) groovy; urgency=medium
