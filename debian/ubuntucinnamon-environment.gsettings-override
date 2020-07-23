@@ -19,6 +19,15 @@ trash-icon-visible=true
 volumes-visible=true
 desktop-layout='true:true'
 
+[org.nemo.preferences]
+size-prefixes='binary'
+
+[org.nemo.window-state]
+sidebar-width=200
+
+[org.cinnamon.desktop.keybindings.media-keys]
+screenreader=['<Alt><Super>s']
+
 [org.cinnamon.desktop.wm.preferences]
 theme='Kimmo-Dark'
 
@@ -26,6 +35,7 @@ theme='Kimmo-Dark'
 app-menu-icon-name='ubuntucinnamon-symbolic'
 app-menu-label='Menu'
 date-format='%a, %h %d %Y%l:%M %p'
+run-dialog-aliases=['<Super>r']
 
 [org.cinnamon.sounds]
 close-file="/usr/share/cinnamon/sounds/close.oga"
