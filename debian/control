@@ -17,18 +17,3 @@ Description: The environment for the Ubuntu Cinnamon desktop.
  but comes with photos, and other applications that fit your touch at
  first glance, and is customizable to work anywhere, anytime you want at
  anytime you need.
-
-Package: ubuntucinnamon-environment-live
-Architecture: all
-Depends: cinnamon-core, ${misc:Depends}
-Description: Tweaks for Ubuntu Cinnamon Remix Live Session
- When the Ubuntu Cinnamon Remix ISO boots into Live Session, there are
- ownership problems for the Desktop directory as root owns it rather
- than the live user (cinnamon-remix).
- .
- To fix this, this package modifies the startup script for Cinnamon to
- change the ownership of the Desktop as the user is created on live
- bootup.
- .
- Do not install this on your main actual hardware with an installed
- system as this puts your Cinnamon at risk from starting up.

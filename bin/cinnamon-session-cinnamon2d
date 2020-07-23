@@ -1,9 +1,0 @@
-#!/bin/sh
-exec cinnamon-session --session cinnamon2d "$@"
-
-# Ubuntu Cinnamon Live Session:
-# Change ownership of Desktop folder from root to cinnamon-remix
-sudo chown cinnamon-remix /home/cinnamon-remix/Desktop
-sudo chown cinnamon-remix /home/cinnamon-remix/Desktop/cinnamon-remix-calamares.desktop
-sudo chown cinnamon-remix:cinnamon-remix /home/cinnamon-remix/Desktop
-sudo chown cinnamon-remix:cinnamon-remix /home/cinnamon-remix/Desktop/cinnamon-remix-calamares.desktop
