@@ -3,7 +3,7 @@
 # Start: set -e to abort script on error
 set -e
 
-# Basically remove all the Debian Junk and fix Cinnamon-Layout icon.
+# Basically remove all the Debian Junk
 #
 # When meta installs the cinnamon packages and everything-the debian
 # wallpapers from when packaged gets bundled up in them. For the Ubuntu
@@ -13,9 +13,6 @@ set -e
 # As for the Cinnamon DE is built on GNOME, we keep the GNOME
 # wallpapers as they fit with the default themes such as Adwaita, and
 # therefore has a right to stay.
-#
-# For Layout icon-Wasta-Linux makes it and their icon doesn't fit with
-# our icon theme-so we replace it.
 
 # Remove the physical actual wallpapers-the directory is only used by
 # the debian wallpapers instead of in usr/share/backgrounds
@@ -27,14 +24,5 @@ for d in ${rmDirs[@]}; do
   fi
 done
 
-if [[ -f /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg ]]
-then
-  rm /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg
-fi
-
-cp /usr/share/icons/hicolor/scalable/categories/cs-panel.svg /usr/share/icons/hicolor/scalable/apps/cinnamon-layout.svg
-
 # Debhelper: Add token
 #DEBHELPER#
-
-

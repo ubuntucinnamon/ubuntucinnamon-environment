@@ -1,3 +1,24 @@
+ubuntucinnamon-environment (0.2.5-1~focal) focal; urgency=medium
+
+  * Remove layout in install scripts
+  * Update icons in gschema overrides
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 28 Jul 2020 15:30:38 -0400
+
+ubuntucinnamon-environment (0.2.4.1-1~focal) focal; urgency=medium
+
+  * Launchpad rebuild
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 27 Jul 2020 11:31:24 -0400
+
+ubuntucinnamon-environment (0.2.4-1~focal) focal; urgency=medium
+
+  * Focal rebuild
+  * Remove cinnamon-layout (dropped)
+  * Update themes
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 27 Jul 2020 11:15:17 -0400
+
 ubuntucinnamon-environment (0.2.4-1) groovy; urgency=medium
 
   * Remove live package

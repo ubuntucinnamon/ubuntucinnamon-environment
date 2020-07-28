@@ -6,7 +6,7 @@ name='Kimmo-Dark'
 symbolic-relative-size=1
 
 [org.cinnamon.desktop.interface]
-icon-theme='Kimmo-Dark'
+icon-theme='Kimmo'
 gtk-theme='Kimmo-Dark'
 cursor-theme='DMZ-Black'
 clock-show-date=true
