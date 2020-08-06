@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (0.2.6-1) focal; urgency=medium
+
+  * Update environment dependencies after artwork source package update
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 06 Aug 2020 00:00:25 -0400
+
 ubuntucinnamon-environment (0.2.5-1~focal) focal; urgency=medium
 
   * Remove layout in install scripts
