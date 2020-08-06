@@ -11,7 +11,7 @@ Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-environment.git
 
 Package: ubuntucinnamon-environment
 Architecture: all
-Depends: ${misc:Depends}, cinnamon-core, nemo, ubuntucinnamon-wallpapers, kimmo-gtk-theme, kimmo-icon-theme
+Depends: ${misc:Depends}, cinnamon-core, nemo, plymouth-theme-ubuntucinnamon-spinner, ubuntucinnamon-wallpapers, ubuntucinnamon-lightdm-theme
 Description: The environment for the Ubuntu Cinnamon desktop.
  The Ubuntu Cinnamon Environment is the Ubuntu Cinnamon desktop
  but comes with photos, and other applications that fit your touch at
