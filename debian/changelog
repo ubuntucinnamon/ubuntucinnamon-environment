@@ -1,21 +1,27 @@
+ubuntucinnamon-environment (0.2.7-1) groovy; urgency=medium
+
+  * Groovy rebuild for feature freeze
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 26 Aug 2020 13:24:18 -0400
+
 ubuntucinnamon-environment (0.2.6-1) focal; urgency=medium
 
   * Update environment dependencies after artwork source package update
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 06 Aug 2020 00:00:25 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 06 Aug 2020 00:00:25 -0400
 
 ubuntucinnamon-environment (0.2.5-1~focal) focal; urgency=medium
 
   * Remove layout in install scripts
   * Update icons in gschema overrides
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 28 Jul 2020 15:30:38 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 28 Jul 2020 15:30:38 -0400
 
 ubuntucinnamon-environment (0.2.4.1-1~focal) focal; urgency=medium
 
   * Launchpad rebuild
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 27 Jul 2020 11:31:24 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 27 Jul 2020 11:31:24 -0400
 
 ubuntucinnamon-environment (0.2.4-1~focal) focal; urgency=medium
 
@@ -23,7 +29,7 @@ ubuntucinnamon-environment (0.2.4-1~focal) focal; urgency=medium
   * Remove cinnamon-layout (dropped)
   * Update themes
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 27 Jul 2020 11:15:17 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 27 Jul 2020 11:15:17 -0400
 
 ubuntucinnamon-environment (0.2.4-1) groovy; urgency=medium
 
@@ -37,45 +43,45 @@ ubuntucinnamon-environment (0.2.4-1) groovy; urgency=medium
   * Nemo prefixes are now Binary
   * Nemo sidebar width is now 200px
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 23 Jul 2020 13:48:59 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 23 Jul 2020 13:48:59 -0400
 
 ubuntucinnamon-environment (0.2.3-1) groovy; urgency=medium
 
   * Postinst script: fix script and convert to bash
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 03 Jul 2020 18:16:52 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 03 Jul 2020 18:16:52 -0400
 
 ubuntucinnamon-environment (0.2.2-1) groovy; urgency=medium
 
   * Postinst script: Look for files before removing them.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 03 Jul 2020 14:39:39 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 03 Jul 2020 14:39:39 -0400
 
 ubuntucinnamon-environment (0.2.1-1) groovy; urgency=medium
 
   * Fix postinst script
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 24 Jun 2020 19:30:40 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 24 Jun 2020 19:30:40 -0400
 
 ubuntucinnamon-environment (0.2-1) groovy; urgency=medium
 
   * Move LightDM Theming to ubuntucinnamon-artwork package
   * Clear out Debian's Plymouth Themes
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 11 Jun 2020 12:43:04 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 11 Jun 2020 12:43:04 -0400
 
 ubuntucinnamon-environment (0.1.9.3-1) groovy; urgency=medium
 
   * Don't copy the file in dh_install-causes install issues
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 30 May 2020 12:59:36 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 30 May 2020 12:59:36 -0400
 
 ubuntucinnamon-environment (0.1.9.2-1) groovy; urgency=medium
 
   * Don't use preinst scripts-use postinst
   * Add cinnamon-layout as a dependency
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 28 May 2020 16:34:20 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 28 May 2020 16:34:20 -0400
 
 ubuntucinnamon-environment (0.1.9.1-1) groovy; urgency=medium
 
@@ -89,7 +95,7 @@ ubuntucinnamon-environment (0.1.9.1-1) groovy; urgency=medium
 
   * Remove compat and add debhelper-compat as build dep
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 22 May 2020 17:25:48 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 22 May 2020 17:25:48 -0400
 
 ubuntucinnamon-environment (0.1.9-1) groovy; urgency=medium
 
@@ -100,48 +106,48 @@ ubuntucinnamon-environment (0.1.9-1) groovy; urgency=medium
 
   * Simplify Debian Packaging
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 11 May 2020 11:59:00 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 11 May 2020 11:59:00 -0400
 
 ubuntucinnamon-environment (0.1.8.1-1) groovy; urgency=medium
 
   * Change ubuntucinnamon-symbolic.png to an svg (Solves: #1)
   * Change kimmo-gtk-theme, kimmo-icon-theme to add "all"
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2020 16:29:50 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 10 May 2020 16:29:50 -0400
 
 ubuntucinnamon-environment (0.1.8-1) groovy; urgency=medium
 
   * New update to Kimmo Themes
   * Remove debian wallpapers
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2020 12:05:08 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 10 May 2020 12:05:08 -0400
 
 ubuntucinnamon-environment (0.1.7-1) groovy; urgency=medium
 
   * Welcome to the Groovy Gorilla! Let the fun begin!
   * Update standards version to 4.5.0
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 11:02:25 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 24 Apr 2020 11:02:25 -0400
 
 ubuntucinnamon-environment (0.1.6-1) focal; urgency=low
 
   * Add cinnamon sounds
   * Give copyright credit to Linux Mint
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 07 Apr 2020 12:23:02 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 07 Apr 2020 12:23:02 -0400
 
 ubuntucinnamon-environment (0.1.5-1) focal; urgency=medium
 
   * Get rid of GNOME's startup applications
   * Changed lintian overrides to show article starts with synopsis
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 21 Mar 2020 16:52:48 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 21 Mar 2020 16:52:48 -0500
 
 ubuntucinnamon-environment (0.1.4-1) focal; urgency=medium
 
   * UI Freeze - Add new wallpaper
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 18 Mar 2020 19:18:22 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 18 Mar 2020 19:18:22 -0500
 
 ubuntucinnamon-environment (0.1.3-1) focal; urgency=medium
 
@@ -150,7 +156,7 @@ ubuntucinnamon-environment (0.1.3-1) focal; urgency=medium
   * Added Vcs-Browser, Vcs-Git
   * Updated copyright
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 04 Jan 2020 19:37:12 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 04 Jan 2020 19:37:12 -0500
 
 ubuntucinnamon-environment (0.1.2-1) focal; urgency=medium
 
@@ -158,7 +164,7 @@ ubuntucinnamon-environment (0.1.2-1) focal; urgency=medium
 
   * Moved ubuntucinnamon-symbolic.png to desktop-files folder.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 21 Dec 2019 19:51:07 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 21 Dec 2019 19:51:07 -0500
 
 ubuntucinnamon-environment (0.1.1-1) focal; urgency=medium
 
@@ -166,7 +172,7 @@ ubuntucinnamon-environment (0.1.1-1) focal; urgency=medium
 
   * Removed panel height gschema. It is not a good idea to have it-reason is complicated.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 20 Dec 2019 18:40:13 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 20 Dec 2019 18:40:13 -0500
 
 ubuntucinnamon-environment (0.1-1) focal; urgency=medium
 
@@ -179,19 +185,19 @@ ubuntucinnamon-environment (0.1-1) focal; urgency=medium
   * Made symbolic relative icon size to '1'
   * Changed panel size to '28' to fit 1366x768. Final decision for panel size.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 14 Dec 2019 11:01:19 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 14 Dec 2019 11:01:19 -0500
 
 ubuntucinnamon-environment (0.0.9-1) eoan; urgency=medium
 
   * Fixed schema type error 'panels-height'
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 29 Nov 2019 15:32:26 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 29 Nov 2019 15:32:26 -0500
 
 ubuntucinnamon-environment (0.0.8-1) eoan; urgency=medium
 
   * Removed mpv to make room for gnome-mpv
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 29 Nov 2019 14:13:48 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 29 Nov 2019 14:13:48 -0500
 
 ubuntucinnamon-environment (0.0.7-1) eoan; urgency=medium
 
@@ -200,13 +206,13 @@ ubuntucinnamon-environment (0.0.7-1) eoan; urgency=medium
   * Made panel height '34'
   * Made clock include seconds and the date
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 29 Nov 2019 14:02:54 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 29 Nov 2019 14:02:54 -0500
 
 ubuntucinnamon-environment (0.0.6-1) eoan; urgency=medium
 
   * Fixed desktop icons overrides
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 27 Nov 2019 18:43:58 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 27 Nov 2019 18:43:58 -0500
 
 ubuntucinnamon-environment (0.0.5-1) eoan; urgency=medium
 
@@ -216,13 +222,13 @@ ubuntucinnamon-environment (0.0.5-1) eoan; urgency=medium
   * Added relevant packages in dependencies to fix installation bugs
   * Added two lintian-overrides
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 27 Nov 2019 18:34:26 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 27 Nov 2019 18:34:26 -0500
 
 ubuntucinnamon-environment (0.0.4-1) eoan; urgency=medium
 
   * Fix debian/control
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 27 Nov 2019 18:05:00 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 27 Nov 2019 18:05:00 -0500
 
 ubuntucinnamon-environment (0.0.3-1) eoan; urgency=medium
 
@@ -230,16 +236,16 @@ ubuntucinnamon-environment (0.0.3-1) eoan; urgency=medium
   * Fixed install directories
   * Made improvements
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 27 Nov 2019 16:06:13 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 27 Nov 2019 16:06:13 -0500
 
 ubuntucinnamon-environment (0.0.2-1) eoan; urgency=medium
 
   * Added lightdm configuration files
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 20:48:47 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 15 Nov 2019 20:48:47 -0500
 
 ubuntucinnamon-environment (0.0.1-1) eoan; urgency=medium
 
   * Initial release
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 17:36:43 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 15 Nov 2019 17:36:43 -0500
