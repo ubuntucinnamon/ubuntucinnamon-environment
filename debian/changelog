@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (0.2.8-1) groovy; urgency=medium
+
+  * Remove gedit highlight override in favor of us using xed
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 29 Aug 2020 11:51:52 -0400
+
 ubuntucinnamon-environment (0.2.7-1) groovy; urgency=medium
 
   * Groovy rebuild for feature freeze
