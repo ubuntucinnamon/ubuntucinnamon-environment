@@ -38,20 +38,11 @@ date-format='%a, %h %d %Y%l:%M %p'
 run-dialog-aliases=['<Super>r']
 
 [org.cinnamon.sounds]
-close-file="/usr/share/cinnamon/sounds/close.oga"
-login-file="/usr/share/cinnamon/sounds/login.oga"
-logout-file="/usr/share/cinnamon/sounds/logout.ogg"
-map-file="/usr/share/cinnamon/sounds/map.oga"
-maximize-file="/usr/share/cinnamon/sounds/maximize.oga"
-minimize-file="/usr/share/cinnamon/sounds/minimize.oga"
-notification-file="/usr/share/cinnamon/sounds/notification.oga"
-plug-file="/usr/share/cinnamon/sounds/plug.oga"
-switch-file="/usr/share/cinnamon/sounds/switch.oga"
-tile-file="/usr/share/cinnamon/sounds/tile.oga"
-unmaximize-file="/usr/share/cinnamon/sounds/unmaximize.oga"
-unplug-file="/usr/share/cinnamon/sounds/unplug.oga"
+login-file="/usr/share/sounds/Yaru/stereo/desktop-login.oga"
+notification-file="/usr/share/sounds/Yaru/stereo/message.oga"
+plug-file="/usr/share/sounds/Yaru/stereo/power-plug.oga"
+unplug-file="/usr/share/sounds/Yaru/stereo/power-unplug.oga"
 login-enabled=true
-logout-enabled=true
 notification-enabled=true
 plug-enabled=true
 unplug-enabled=true
@@ -60,14 +51,14 @@ unplug-enabled=true
 event-sounds=true
 input-feedback-sounds=true
 maximum-volume=100
-theme-name="LinuxMint"
+theme-name="Yaru"
 volume-sound-enabled=false
-volume-sound-file="/usr/share/cinnamon/sounds/volume.oga"
+volume-sound-file="/usr/share/sounds/Yaru/stereo/audio-volume-change.oga"
 
 [org.gnome.desktop.sound]
 event-sounds=true
 input-feedback-sounds=true
-theme-name="LinuxMint"
+theme-name="Yaru"
 
 [org.cinnamon.desktop.default-applications.terminal]
 exec='gnome-terminal'

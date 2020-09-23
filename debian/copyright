@@ -7,10 +7,6 @@ Copyright:
  2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 License: GPL-3+
 
-Files: usr/share/cinnamon/sounds/*
-Copyright: 2012-2018 Linux Mint <root@linuxmint.com>
-License: GPL-3+
-
 Files: bin/*
 Copyright: 2012 Linux Mint <root@linuxmint.com>
 License: GPL-3+
