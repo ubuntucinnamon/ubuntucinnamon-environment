@@ -2,12 +2,12 @@
 picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/focal/ubuntu_cinnamon_focal_fossa.jpg'
 
 [org.cinnamon.theme]
-name='Arc-Dark'
+name='Kimmo-Dark'
 symbolic-relative-size=1
 
 [org.cinnamon.desktop.interface]
-icon-theme='Numix'
-gtk-theme='Arc-Dark'
+icon-theme='Kimmo'
+gtk-theme='Kimmo-Dark'
 cursor-theme='DMZ-Black'
 clock-show-date=true
 clock-show-seconds=true
@@ -29,7 +29,7 @@ sidebar-width=200
 screenreader=['<Alt><Super>s']
 
 [org.cinnamon.desktop.wm.preferences]
-theme='Arc-Dark'
+theme='Kimmo-Dark'
 
 [org.cinnamon]
 app-menu-icon-name='ubuntucinnamon-symbolic'
