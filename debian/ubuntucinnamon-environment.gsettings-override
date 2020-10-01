@@ -52,7 +52,7 @@ event-sounds=true
 input-feedback-sounds=true
 maximum-volume=100
 theme-name="Yaru"
-volume-sound-enabled=false
+volume-sound-enabled=true
 volume-sound-file="/usr/share/sounds/Yaru/stereo/audio-volume-change.oga"
 
 [org.gnome.desktop.sound]
