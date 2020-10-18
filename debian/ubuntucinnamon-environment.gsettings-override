@@ -62,3 +62,6 @@ theme-name="Yaru"
 
 [org.cinnamon.desktop.default-applications.terminal]
 exec='gnome-terminal'
+
+[org.gnome.Terminal.Legacy.Settings]
+theme-variant='dark'
