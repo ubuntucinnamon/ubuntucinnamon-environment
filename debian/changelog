@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (20.10.1) groovy; urgency=medium
+
+  * Don't display Thai X Terminal
+  * Use Dark theme in GNOME Terminal
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 18 Oct 2020 10:29:36 -0400
+
 ubuntucinnamon-environment (20.10) groovy; urgency=medium
 
   * Switch to native format
