@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Thai X terminal
+Comment=X Terminal that supports Thai (TIS-620 encoding)
+Icon=xiterm+thai
+Exec=txiterm -ls -cursorColor yellow -cursorColorThai red -bg black -fg white
+Type=Application
+NoDisplay=true
+Categories=System;Utility;TerminalEmulator;
