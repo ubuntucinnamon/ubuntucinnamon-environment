@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (20.11) hirsute; urgency=medium
+
+  * Switch Kimmo Themes with Yaru Cinnamon Themes
+  * Hirsute Build
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 08 Nov 2020 21:19:33 -0500
+
 ubuntucinnamon-environment (20.10.1) groovy; urgency=medium
 
   * Don't display Thai X Terminal
