@@ -1,3 +1,13 @@
+ubuntucinnamon-environment (21.04) hirsute; urgency=medium
+
+  * debian/control: Improve description and dependency order
+  * Bump standards version to 4.5.0, no changes required.
+  * Update copyright emails
+
+  * Don't place images in scalable directory
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 02 Dec 2020 15:45:05 -0500
+
 ubuntucinnamon-environment (20.11) hirsute; urgency=medium
 
   * Switch Kimmo Themes with Yaru Cinnamon Themes
