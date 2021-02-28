@@ -2,13 +2,13 @@
 picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/groovy/ubuntu_cinnamon_groovy_gorilla.jpg'
 
 [org.cinnamon.theme]
-name='Yaru-Cinnamon-Dark'
+name='Yaru-Cinnamon'
 symbolic-relative-size=1
 
 [org.cinnamon.desktop.interface]
 icon-theme='Yaru-Cinnamon'
-gtk-theme='Yaru-Cinnamon-Dark'
-cursor-theme='Yaru'
+gtk-theme='Yaru-Cinnamon'
+cursor-theme='Yaru-Cinnamon'
 clock-show-date=true
 clock-show-seconds=true
 
@@ -29,7 +29,7 @@ sidebar-width=200
 screenreader=['<Alt><Super>s']
 
 [org.cinnamon.desktop.wm.preferences]
-theme='Yaru-Cinnamon-Dark'
+theme='Yaru-Cinnamon'
 
 [org.cinnamon]
 app-menu-icon-name='ubuntucinnamon-symbolic'
