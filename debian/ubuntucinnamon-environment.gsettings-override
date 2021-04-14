@@ -1,5 +1,5 @@
 [org.cinnamon.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/groovy/ubuntu_cinnamon_groovy_gorilla.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/hirsute/ubuntu_cinnamon_hirsute_hippo.jpg'
 
 [org.cinnamon.theme]
 name='Yaru-Cinnamon-Dark'
