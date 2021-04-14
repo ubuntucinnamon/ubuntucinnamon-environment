@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (21.04.2) hirsute; urgency=medium
+
+  * Enable hirsute wallpapers for release
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 14 Apr 2021 14:31:02 -0400
+
 ubuntucinnamon-environment (21.04.1.1) hirsute; urgency=medium
 
   * Remove useless debhelper builddep
