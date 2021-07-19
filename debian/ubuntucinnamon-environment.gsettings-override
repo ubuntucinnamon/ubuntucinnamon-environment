@@ -39,10 +39,12 @@ run-dialog-aliases=['<Super>r']
 
 [org.cinnamon.sounds]
 login-file="/usr/share/sounds/Yaru/stereo/desktop-login.oga"
+logout-file="/usr/share/sounds/Yaru/stereo/desktop-logoff.oga"
 notification-file="/usr/share/sounds/Yaru/stereo/message.oga"
 plug-file="/usr/share/sounds/Yaru/stereo/power-plug.oga"
 unplug-file="/usr/share/sounds/Yaru/stereo/power-unplug.oga"
 login-enabled=true
+logout-enabled=true
 notification-enabled=true
 plug-enabled=true
 unplug-enabled=true
