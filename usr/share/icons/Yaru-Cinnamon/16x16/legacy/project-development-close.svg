@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="project-development-close.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="18.25"
+     inkscape:cx="-1.8630137"
+     inkscape:cy="7.5616438"
+     inkscape:current-layer="svg10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23" />
+  </sodipodi:namedview>
+  <path
+     d="M 10.407067,15.00605 H 1.580955 c -0.372934,0 -0.579801,-0.19626 -0.580179,-0.5625 L 0.989996,4.00042 c 3.594886,0.0147 11.002903,0.009 14.012739,-4e-5 l 0.0039,6.41922 0.999096,0.004 V 2.52532 c 0,-0.85525 -0.716206,-1.55664 -1.587087,-1.55664 H 1.592674 c -0.870883,0 -1.587088,0.70139 -1.587088,1.55664 v 11.91797 c 0,0.85525 0.716205,1.5586 1.587088,1.5586 h 8.809875 z"
+     style="fill:#4d4d4d"
+     id="path2"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 15.333334,12 14,13.333333 12.666666,12 12,12.666666 13.333333,14 12,15.333334 12.666666,16 14,14.666667 15.333334,16 16,15.333334 14.666667,14 16,12.666666 Z"
+     style="fill:#4d4d4d;stroke-width:1"
+     id="path4"
+     inkscape:connector-curvature="0" />
+</svg>

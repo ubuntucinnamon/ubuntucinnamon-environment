@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16.011"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="weather-windy.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="18.25"
+     inkscape:cx="-1.2547741"
+     inkscape:cy="7.5616438"
+     inkscape:current-layer="svg4" />
+  <path
+     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#dfdfdf;fill-opacity:1"
+     d="m 13.41,4.002 a 2.491,2.491 0 0 0 -1.816,0.89 c -0.46,0.514 0.34,1.186 0.766,0.643 A 1.495,1.495 0 0 1 14.182,5.16 c 0.623,0.313 0.946,1.007 0.785,1.686 A 1.495,1.495 0 0 1 13.508,8 H 1.5 C 0.678,8 0,8.678 0,9.5 a 1.508,1.508 0 0 0 1.51,1.502 h 9.01 c 0.235,0 0.432,0.155 0.487,0.383 a 0.495,0.495 0 0 1 -0.262,0.562 0.495,0.495 0 0 1 -0.608,-0.125 C 9.712,11.28 8.911,11.952 9.372,12.465 a 1.499,1.499 0 0 0 1.822,0.377 c 0.619,-0.31 0.945,-1.014 0.785,-1.688 A 1.489,1.489 0 0 0 10.686,10.031 0.5,0.5 0 0 0 10.512,10.002 H 1.502 V 10 A 0.493,0.493 0 0 1 1.002,9.5 C 1.002,9.218 1.22,9 1.502,9 H 13.51 a 0.506,0.506 0 0 0 0.1,-0.008 2.502,2.502 0 0 0 2.334,-1.916 2.504,2.504 0 0 0 -1.31,-2.81 2.496,2.496 0 0 0 -1.221,-0.264 z"
+     id="path819" />
+  <path
+     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#dfdfdf;fill-opacity:1"
+     d="M 8.705,4.012 A 1.497,1.497 0 0 0 7.367,4.535 C 6.907,5.048 7.707,5.721 8.133,5.178 8.283,4.998 8.531,4.948 8.74,5.053 8.95,5.158 9.056,5.387 9.002,5.615 A 0.495,0.495 0 0 1 8.516,6 H 3.506 C 2.83,5.99 2.83,7.01 3.506,7 h 5.01 C 8.571,7 8.626,6.991 8.678,6.973 A 1.492,1.492 0 0 0 9.973,5.846 1.503,1.503 0 0 0 8.703,4.012 Z"
+     id="path2" />
+</svg>

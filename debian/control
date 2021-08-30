@@ -17,3 +17,36 @@ Description: Ubuntu Cinnamon's Desktop Environment
  comes with photos, and other applications that fit your touch at
  first glance, and is customizable to work anywhere, anytime you want at
  anywhere you need.
+
+Package: yaru-cinnamon-theme-gtk
+Architecture: all
+Depends: gnome-themes-extra,
+ gtk2-engines-pixbuf,
+ gtk2-engines-murrine,
+ ${misc:Depends}
+Description: Cinnamon version of the Ubuntu community "Yaru" GTK theme
+ This is the theme, better than a burrito, that is shaped by the community
+ on the Ubuntu discourse. This version however is colorized to the Cinnamon
+ #DD682A color scheme and comes with Cinnamon DE and Metacity Window Manager
+ support.
+ .
+ This package contains the GTK+ 2 and 3 theme parts, along with Cinnamon and
+ Metacity support.
+ .
+ If you want to follow development, more information here:
+ https://community.ubuntu.com/c/desktop/theme-refresh
+ https://github.com/Ubuntu-Cinnamon-Remix/yaru-cinnamon
+
+Package: yaru-cinnamon-theme-icon
+Architecture: all
+Depends: ${misc:Depends}
+Description: Cinnamon version of the Ubuntu community "Yaru" icon theme
+ This is the theme, better than a burrito, that is shaped by the community
+ on the Ubuntu discourse. This version however is colorized to the Cinnamon
+ #DD682A color scheme.
+ .
+ This package contains the icon theme.
+ .
+ If you want to follow development, more information here:
+ https://community.ubuntu.com/c/desktop/theme-refresh
+ https://github.com/Ubuntu-Cinnamon-Remix/yaru-cinnamon

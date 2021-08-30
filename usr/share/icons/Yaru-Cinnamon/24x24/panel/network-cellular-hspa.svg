@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="network-cellular-hspa.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="12.904699"
+     inkscape:cx="-7.6801478"
+     inkscape:cy="9.398897"
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid817" />
+  </sodipodi:namedview>
+  <path
+     d="m 6.713,6.0002539 c -1.058,-0.013 -1.768,0.224 -2.133,0.662 -0.383,0.456 -0.58,1.204 -0.58,2.244 v 6.1880001 c 0,1.04 0.197,1.788 0.58,2.244 0.365,0.438 1.075,0.662 2.133,0.662 h 10.574 c 1.058,0 1.77,-0.224 2.135,-0.662 0.383,-0.456 0.578,-1.204 0.578,-2.244 V 8.9062539 c 0,-1.04 -0.195,-1.788 -0.578,-2.244 -0.365,-0.438 -1.077,-0.662 -2.135,-0.662 z m 2.61,2.766 h 1.454 v 2.4740001 h 2.446 V 8.7662539 h 1.455 v 6.4680001 h -1.455 v -2.744 h -2.446 v 2.744 H 9.322 Z"
+     style="font-weight:400;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:#dfdfdf;fill-opacity:1"
+     font-weight="400"
+     font-size="15"
+     letter-spacing="0"
+     word-spacing="0"
+     id="path2"
+     inkscape:connector-curvature="0" />
+</svg>
