@@ -1,3 +1,11 @@
+ubuntucinnamon-environment (21.10.1) impish; urgency=medium
+
+  * Import yaru-cinnamon theme into environment package
+  * Bump Standards-Version to 4.6.0
+  * Set default wallpaper to impish
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 26 Sep 2021 17:22:18 -0400
+
 ubuntucinnamon-environment (21.10) impish; urgency=medium
 
   * Support more 64-bit architectures
