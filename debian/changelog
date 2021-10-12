@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (21.10.2) impish; urgency=medium
+
+  * Initu: Theme: Fix thumbnail images
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 12 Oct 2021 15:51:04 -0400
+
 ubuntucinnamon-environment (21.10.1) impish; urgency=medium
 
   * Import yaru-cinnamon theme into environment package
