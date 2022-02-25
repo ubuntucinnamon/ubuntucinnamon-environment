@@ -67,3 +67,7 @@ exec='gnome-terminal'
 
 [org.gnome.Terminal.Legacy.Settings]
 theme-variant='dark'
+
+[com.ubuntu.update-notifier:Cinnamon]
+notify-ubuntu-advantage-available=false
+show-livepatch-status-icon=false

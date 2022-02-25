@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (22.02) jammy; urgency=medium
+
+  * Disable Ubuntu Pro notifications
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 25 Feb 2022 12:10:29 -0500
+
 ubuntucinnamon-environment (21.10.2) impish; urgency=medium
 
   * Initu: Theme: Fix thumbnail images
