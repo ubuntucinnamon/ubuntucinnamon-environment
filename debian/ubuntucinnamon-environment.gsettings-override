@@ -11,6 +11,7 @@ gtk-theme='Yaru-Cinnamon-Dark'
 cursor-theme='Yaru-Cinnamon'
 clock-show-date=true
 clock-show-seconds=true
+font-name='Ubuntu 11'
 
 [org.nemo.desktop]
 computer-icon-visible=true
@@ -18,6 +19,7 @@ home-icon-visible=true
 trash-icon-visible=true
 volumes-visible=true
 desktop-layout='true:true'
+font='Ubuntu 11'
 
 [org.nemo.preferences]
 size-prefixes='binary'
@@ -30,6 +32,7 @@ screenreader=['<Alt><Super>s']
 
 [org.cinnamon.desktop.wm.preferences]
 theme='Yaru-Cinnamon-Dark'
+titlebar-font='Ubuntu Bold 11'
 
 [org.cinnamon]
 app-menu-icon-name='ubuntucinnamon-symbolic'
@@ -56,6 +59,9 @@ maximum-volume=100
 theme-name="Yaru"
 volume-sound-enabled=true
 volume-sound-file="/usr/share/sounds/Yaru/stereo/audio-volume-change.oga"
+
+[org.gnome.desktop.interface]
+monospace-font-name='Ubuntu Mono 11'
 
 [org.gnome.desktop.sound]
 event-sounds=true
