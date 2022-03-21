@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (22.04) jammy; urgency=medium
+
+  * Update icons
+  * Set wallpaper to jammy
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 21 Mar 2022 14:17:54 -0400
+
 ubuntucinnamon-environment (22.02) jammy; urgency=medium
 
   * Disable Ubuntu Pro notifications
