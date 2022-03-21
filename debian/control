@@ -11,7 +11,7 @@ Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-environment.git
 
 Package: ubuntucinnamon-environment
 Architecture: amd64 arm64 mips64el ppc64el s390x
-Depends: cinnamon-core, nemo, plymouth-theme-ubuntucinnamon-spinner, ubuntucinnamon-wallpapers, ubuntucinnamon-wallpapers-hirsute, ubuntucinnamon-lightdm-theme, yaru-theme-sound, ${misc:Depends}
+Depends: cinnamon-core, nemo, plymouth-theme-ubuntucinnamon-spinner, ubuntucinnamon-wallpapers, ubuntucinnamon-wallpapers-jammy, ubuntucinnamon-lightdm-theme, yaru-theme-sound, ${misc:Depends}
 Description: Ubuntu Cinnamon's Desktop Environment
  This package contains Ubuntu Cinnamon's Desktop Environment which
  comes with photos, and other applications that fit your touch at
