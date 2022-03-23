@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=Yaru-Cinnamon
+Type=X-GNOME-Metatheme
+Comment=Ubuntu Yaru-Cinnamon theme
+Encoding=UTF-8
+GtkTheme=Yaru-Cinnamon
+MetacityTheme=Yaru-Cinnamon
+IconTheme=Yaru-Cinnamon
+CursorTheme=Yaru-Cinnamon
+CursorSize=24
