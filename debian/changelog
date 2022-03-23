@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (22.04.1) jammy; urgency=medium
+
+  * Update GTK themes
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 23 Mar 2022 16:03:22 -0400
+
 ubuntucinnamon-environment (22.04) jammy; urgency=medium
 
   * Update icons
