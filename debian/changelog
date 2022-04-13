@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (22.04.2) jammy; urgency=medium
+
+  * Update icons
+  * Ensure we set document font
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 13 Apr 2022 12:59:15 -0400
+
 ubuntucinnamon-environment (22.04.1) jammy; urgency=medium
 
   * Update GTK themes
