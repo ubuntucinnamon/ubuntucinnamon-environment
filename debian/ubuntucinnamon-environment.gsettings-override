@@ -61,7 +61,9 @@ volume-sound-enabled=true
 volume-sound-file="/usr/share/sounds/Yaru/stereo/audio-volume-change.oga"
 
 [org.gnome.desktop.interface]
+document-font-name='Ubuntu 11'
 monospace-font-name='Ubuntu Mono 11'
+font-name='Ubuntu 11'
 
 [org.gnome.desktop.sound]
 event-sounds=true
