@@ -21,10 +21,35 @@ home-icon-visible=true
 trash-icon-visible=true
 volumes-visible=true
 desktop-layout='true:true'
+use-desktop-grid=true
 font='Ubuntu 11'
+
 
 [org.nemo.preferences]
 size-prefixes='binary'
+image-viewers-with-external-sort=['shotwell', 'eog', 'xviewer', 'feh', 'sxiv']
+sort-directories-first=true
+sort-favorites-first=true
+show-list-view-icon-toolbar=true
+show-location-entry=true
+show-image-thumbnails='local-only'
+thumbnail-limit=uint64 4294967295
+
+#Gedit settings
+[org.gnome.gedit.preferences.editor]
+auto-indent=true
+bracket-matching=true
+display-line-numbers=true
+display-overview-map=true
+display-right-margin=true
+highlight-current-line=true
+scheme='oblivion'
+search-highlighting=true
+syntax-highlighting=true
+tabs-size=uint32 4
+use-default-font=true
+ensure-trailing-newline=true
+max-undo-actions=2000
 
 [org.nemo.window-state]
 sidebar-width=200
