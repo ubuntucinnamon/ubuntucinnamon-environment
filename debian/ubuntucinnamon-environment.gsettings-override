@@ -12,6 +12,8 @@ cursor-theme='Yaru-Cinnamon'
 clock-show-date=true
 clock-show-seconds=true
 font-name='Ubuntu 11'
+document-font-name='Ubuntu 11'
+monospace-font-name='Ubuntu Mono 11'
 
 [org.nemo.desktop]
 computer-icon-visible=true
