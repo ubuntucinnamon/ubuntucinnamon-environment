@@ -1,3 +1,11 @@
+ubuntucinnamon-environment (22.04.3) jammy; urgency=medium
+
+  [securerootd]
+  * Fix Mono and Document font in Cinnamon
+  * Minor fixes
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 15 Apr 2022 13:34:46 -0400
+
 ubuntucinnamon-environment (22.04.2) jammy; urgency=medium
 
   * Update icons
