@@ -4,7 +4,7 @@ Source: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-environment
 
 Files: *
 Copyright:
- 2020 Joshua Peisach <itzswirlz2020@outlook.com>
+ 2020-2022 Joshua Peisach <itzswirlz2020@outlook.com>
 License: GPL-3+
 
 Files: debian/*
