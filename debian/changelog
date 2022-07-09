@@ -1,3 +1,15 @@
+ubuntucinnamon-environment (22.07) kinetic; urgency=medium
+
+  [Joshua Peisach]
+  * Kinetic rebuild
+  * Bump Standards-Version to 4.6.0.1
+  * Bump copyright year to 2020-2022
+  * General lintian fixes
+
+  * Update GTK themes
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 09 Jul 2022 12:44:38 -0400
+
 ubuntucinnamon-environment (22.04.3) jammy; urgency=medium
 
   [securerootd]
