@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (22.07.1) kinetic; urgency=medium
+
+  * Copyright: Specify year
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 11 Jul 2022 11:44:53 -0400
+
 ubuntucinnamon-environment (22.07) kinetic; urgency=medium
 
   [Joshua Peisach]
