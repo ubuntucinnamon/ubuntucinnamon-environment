@@ -1,3 +1,15 @@
+ubuntucinnamon-environment (22.07.2) kinetic; urgency=medium
+
+  [Erich Eickmeyer]
+  * Remove unnecessary executable bits
+
+  [Joshua Peisach]
+  * Add missing thumbnails to git
+  * Remove invalid override
+  * Set build arch to all
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 23 Jul 2022 11:15:53 -0400
+
 ubuntucinnamon-environment (22.07.1) kinetic; urgency=medium
 
   * Copyright: Specify year
