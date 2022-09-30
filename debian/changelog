@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (22.10.1) kinetic; urgency=medium
+
+  * Update/regenerate Yaru-cinnamon theme variant (gtk + icons) (LP: #1991430)
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 30 Sep 2022 19:52:31 -0400
+
 ubuntucinnamon-environment (22.07.2) kinetic; urgency=medium
 
   [Erich Eickmeyer]
