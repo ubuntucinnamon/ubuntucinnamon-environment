@@ -2,13 +2,13 @@
 picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/kinetic/ubuntu_cinnamon_kinetic_kudu.jpg'
 
 [org.cinnamon.theme]
-name='Yaru-Cinnamon-Dark'
+name='Yaru-cinnamon-dark'
 symbolic-relative-size=1
 
 [org.cinnamon.desktop.interface]
-icon-theme='Yaru-Cinnamon'
-gtk-theme='Yaru-Cinnamon-Dark'
-cursor-theme='Yaru-Cinnamon'
+icon-theme='Yaru-cinnamon'
+gtk-theme='Yaru-cinnamon-dark'
+cursor-theme='Yaru'
 clock-show-date=true
 clock-show-seconds=true
 font-name='Ubuntu 11'
@@ -57,7 +57,7 @@ sidebar-width=200
 screenreader=['<Alt><Super>s']
 
 [org.cinnamon.desktop.wm.preferences]
-theme='Yaru-Cinnamon-Dark'
+theme='Yaru-cinnamon-dark'
 titlebar-font='Ubuntu Bold 11'
 
 [org.cinnamon]
