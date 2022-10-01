@@ -1,5 +1,5 @@
 [org.cinnamon.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/kinetic/ubuntu_cinnamon_kinetic_kudu.jpg'
 
 [org.cinnamon.theme]
 name='Yaru-Cinnamon-Dark'
