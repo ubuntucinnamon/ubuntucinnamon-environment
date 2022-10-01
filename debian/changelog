@@ -1,3 +1,12 @@
+ubuntucinnamon-environment (22.10.2) kinetic; urgency=medium
+
+  * Set wallpaper to kinetic (LP: #1991428)
+  * Fix name of yaru-cinnamon theme name in gsettings overrides (LP: #1991456)
+
+  * Add missing cinnamon assets in gtk theme + fix terminal color (LP: #1991460)
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 01 Oct 2022 17:12:56 -0400
+
 ubuntucinnamon-environment (22.10.1) kinetic; urgency=medium
 
   * Update/regenerate Yaru-cinnamon theme variant (gtk + icons) (LP: #1991430)
