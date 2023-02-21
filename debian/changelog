@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (23.04.1) lunar; urgency=medium
+
+  * Update Standards-Version to 4.6.1, no changes required
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 21 Feb 2023 15:23:09 -0500
+
 ubuntucinnamon-environment (22.10.2) kinetic; urgency=medium
 
   * Set wallpaper to kinetic (LP: #1991428)
