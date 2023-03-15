@@ -256,8 +256,8 @@ StScrollBar {
   border-left-width: 0;
   border-right-width: 0; }
   .popup-menu-item:active {
-    color: #FFFFFF;
-    background-color: #DD682A; }
+    color: #3D3D3D;
+    background-color: rgba(0, 0, 0, 0.09); }
   .popup-menu-item:insensitive {
     color: rgba(61, 61, 61, 0.5);
     background: none; }
@@ -1110,7 +1110,7 @@ StScrollBar {
 .menu-favorites-box {
   padding: 10px;
   transition-duration: 300;
-  background-color: #ffffff;
+  background-color: #f2f2f2;
   border: 1px solid #c7c7c7; }
 
 .menu-favorites-button {
@@ -1118,7 +1118,7 @@ StScrollBar {
   border: 1px solid rgba(0, 0, 0, 0);
   border-radius: 2px; }
   .menu-favorites-button:hover {
-    background-color: #DD682A; }
+    background-color: rgba(0, 0, 0, 0.09); }
 
 .menu-places-box {
   padding: 10px;
@@ -1140,8 +1140,8 @@ StScrollBar {
     font-weight: bold; }
   .menu-application-button-selected {
     padding: 7px;
-    color: #FFFFFF;
-    background-color: #DD682A;
+    color: #3D3D3D;
+    background-color: rgba(0, 0, 0, 0.09);
     border: 1px solid #c7c7c7; }
     .menu-application-button-selected:highlighted {
       font-weight: bold; }
@@ -1155,8 +1155,8 @@ StScrollBar {
   border: 1px solid rgba(0, 0, 0, 0); }
   .menu-category-button-selected {
     padding: 7px;
-    color: #FFFFFF;
-    background-color: #DD682A;
+    color: #3D3D3D;
+    background-color: rgba(0, 0, 0, 0.09);
     border: 1px solid #c7c7c7; }
   .menu-category-button-hover {
     background-color: red;
@@ -1573,7 +1573,7 @@ StScrollBar {
     padding-bottom: 2px;
     transition-duration: 200; }
     .panel-launchers .launcher:hover {
-      background-color: #DD682A; }
+      background-color: rgba(0, 0, 0, 0.09); }
   .panel-launchers.vertical {
     padding-top: 2px;
     padding-bottom: 2px;
@@ -1596,10 +1596,10 @@ StScrollBar {
 
 .applet-separator-line {
   width: 1px;
-  background: rgba(255, 255, 255, 0.12); }
+  background: #d4d4d4; }
   .applet-separator-line-vertical {
     height: 1px;
-    background: rgba(255, 255, 255, 0.12); }
+    background: #d4d4d4; }
 
 .applet-box {
   padding-left: 4px;
@@ -1615,8 +1615,8 @@ StScrollBar {
     padding-top: 3px;
     padding-bottom: 3px; }
   .applet-box:hover, .applet-box:checked {
-    color: #FFFFFF;
-    background-color: #DD682A; }
+    color: #3D3D3D;
+    background-color: rgba(0, 0, 0, 0.09); }
   .applet-box:highlight {
     background-image: none;
     border-image: none;
@@ -1626,14 +1626,14 @@ StScrollBar {
   font-weight: bold;
   color: #f2f2f2; }
   .applet-label:hover, .applet-label:checked, .applet-box:hover .applet-label, .applet-box:checked .applet-label {
-    color: #FFFFFF;
+    color: #3D3D3D;
     text-shadow: none; }
 
 .applet-icon {
-  color: #FFFFFF;
+  color: #3D3D3D;
   icon-size: 22px; }
   .applet-icon:hover, .applet-icon:checked, .applet-box:hover > .applet-icon, .applet-box:checked > .applet-icon {
-    color: #FFFFFF;
+    color: #3D3D3D;
     text-shadow: none; }
 
 .user-icon {
@@ -1648,6 +1648,16 @@ StScrollBar {
   font-size: 1em;
   font-weight: bold;
   margin: 0px; }
+
+.applet-cornerbar {
+  width: 8px;
+  background-color: #d4d4d4; }
+  .applet-cornerbar-box {
+    padding: 4px 4px; }
+    .applet-cornerbar-box:hover > .applet-cornerbar {
+      background-color: #bababa; }
+  .applet-cornerbar.vertical {
+    height: 8px; }
 
 .desklet {
   color: #3D3D3D; }
@@ -1744,8 +1754,8 @@ StScrollBar {
 
 .check-box StBin,
 .radiobutton StBin {
-  width: 24px;
-  height: 24px; }
+  width: 20px;
+  height: 20px; }
 
 .calendar-change-month-back:hover, .calendar-change-month-back:focus {
   background-color: rgba(61, 61, 61, 0.1);
@@ -1797,3 +1807,15 @@ StScrollBar {
 
 .panel-right {
   box-shadow: -1px 0 #464646; }
+
+.applet-box:hover, .applet-box:checked {
+  color: #F7F7F7;
+  background-color: rgba(255, 255, 255, 0.09); }
+
+.applet-label:hover, .applet-label:checked, .applet-box:hover .applet-label, .applet-box:checked .applet-label {
+  color: #F7F7F7; }
+
+.applet-icon {
+  color: #F7F7F7; }
+  .applet-icon:hover, .applet-icon:checked, .applet-box:hover > .applet-icon, .applet-box:checked > .applet-icon {
+    color: #F7F7F7; }
