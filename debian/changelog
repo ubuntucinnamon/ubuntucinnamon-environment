@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (23.04.2) lunar; urgency=medium
+
+  * Update Yaru-Cinnamon theme
+  * Update gsettings overrides to use lunar wallpaper
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 15 Mar 2023 14:26:21 -0400
+
 ubuntucinnamon-environment (23.04.1) lunar; urgency=medium
 
   * Update Standards-Version to 4.6.1, no changes required
