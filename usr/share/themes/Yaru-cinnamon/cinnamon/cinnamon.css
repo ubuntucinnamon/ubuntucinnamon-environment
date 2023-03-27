@@ -1596,10 +1596,10 @@ StScrollBar {
 
 .applet-separator-line {
   width: 1px;
-  background: #d4d4d4; }
+  background: rgba(255, 255, 255, 0.12); }
   .applet-separator-line-vertical {
     height: 1px;
-    background: #d4d4d4; }
+    background: rgba(255, 255, 255, 0.12); }
 
 .applet-box {
   padding-left: 4px;
@@ -1651,11 +1651,11 @@ StScrollBar {
 
 .applet-cornerbar {
   width: 8px;
-  background-color: #d4d4d4; }
+  background-color: rgba(255, 255, 255, 0.12); }
   .applet-cornerbar-box {
     padding: 4px 4px; }
     .applet-cornerbar-box:hover > .applet-cornerbar {
-      background-color: #bababa; }
+      background-color: rgba(255, 255, 255, 0.22); }
   .applet-cornerbar.vertical {
     height: 8px; }
 
