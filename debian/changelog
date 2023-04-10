@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (23.04.4) lunar; urgency=medium
+
+  * Add gthumb as default image viewer (LP: #2015792)
+  * Add more overrides for ubiquity image theming
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 10 Apr 2023 15:04:33 -0400
+
 ubuntucinnamon-environment (23.04.3) lunar; urgency=medium
 
   * Icon and cinnamon theme fixes from Initu (LP: #2012844)
