@@ -26,7 +26,7 @@ font='Ubuntu 11'
 
 
 [org.nemo.preferences]
-image-viewers-with-external-sort=['shotwell', 'eog', 'xviewer', 'feh', 'sxiv']
+image-viewers-with-external-sort=['gthumb', 'shotwell', 'eog', 'xviewer', 'feh', 'sxiv']
 sort-directories-first=true
 sort-favorites-first=true
 show-list-view-icon-toolbar=true
