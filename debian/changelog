@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (23.04.5) lunar; urgency=medium
+
+  * Drop user constraints on overrides (LP: #2016334)
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 14 Apr 2023 16:10:46 -0400
+
 ubuntucinnamon-environment (23.04.4) lunar; urgency=medium
 
   * Add gthumb as default image viewer (LP: #2015792)
