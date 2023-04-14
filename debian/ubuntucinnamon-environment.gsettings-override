@@ -107,16 +107,16 @@ notify-ubuntu-advantage-available=false
 show-livepatch-status-icon=false
 
 
-[org.gnome.desktop.background:ubuntu]
+[org.gnome.desktop.background]
 picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg'
 picture-uri-dark='file:///usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg'
 
-[org.gnome.desktop.screensaver:ubuntu]
+[org.gnome.desktop.screensaver]
 picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg'
 
-[org.gnome.desktop.interface:ubuntu]
+[org.gnome.desktop.interface]
 gtk-theme = 'Yaru-cinnamon'
 icon-theme = 'Yaru-cinnamon'
 
-[org.gnome.desktop.background:ubuntu]
+[org.gnome.desktop.background]
 primary-color = '#dd682aff'
