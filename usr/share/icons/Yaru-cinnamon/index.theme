@@ -3,7 +3,7 @@ Name=Yaru-cinnamon
 Comment=A desktop adaptation of the Ubuntu mobile icons.
 Inherits=Yaru,Humanity,hicolor
 Example=folder
-Directories=16x16/actions,16x16/apps,16x16/emblems,16x16/panel,16x16/places,16x16/status,16x16@2x/actions,16x16@2x/apps,16x16@2x/emblems,16x16@2x/places,16x16@2x/status,22x22/actions,22x22/animations,22x22/panel,22x22@2x/actions,24x24/actions,24x24/animations,24x24/apps,24x24/emblems,24x24/panel,24x24/places,24x24/status,24x24@2x/actions,24x24@2x/apps,24x24@2x/emblems,24x24@2x/places,24x24@2x/status,256x256/actions,256x256/apps,256x256/emblems,256x256/places,256x256/status,256x256@2x/actions,256x256@2x/apps,256x256@2x/emblems,256x256@2x/places,256x256@2x/status,32x32/actions,32x32/apps,32x32/emblems,32x32/places,32x32/status,32x32@2x/actions,32x32@2x/apps,32x32@2x/emblems,32x32@2x/places,32x32@2x/status,48x48/actions,48x48/apps,48x48/devices,48x48/emblems,48x48/places,48x48/status,48x48@2x/actions,48x48@2x/apps,48x48@2x/emblems,48x48@2x/places,48x48@2x/status,8x8/emblems,8x8@2x/emblems
+Directories=16x16/actions,16x16/apps,16x16/emblems,16x16/panel,16x16/places,16x16/status,16x16@2x/actions,16x16@2x/apps,16x16@2x/emblems,16x16@2x/places,16x16@2x/status,22x22/actions,22x22/animations,22x22/apps,22x22/panel,22x22@2x/actions,22x22@2x/apps,24x24/actions,24x24/animations,24x24/apps,24x24/emblems,24x24/panel,24x24/places,24x24/status,24x24@2x/actions,24x24@2x/apps,24x24@2x/emblems,24x24@2x/places,24x24@2x/status,256x256/actions,256x256/apps,256x256/emblems,256x256/places,256x256/status,256x256@2x/actions,256x256@2x/apps,256x256@2x/emblems,256x256@2x/places,256x256@2x/status,32x32/actions,32x32/apps,32x32/emblems,32x32/places,32x32/status,32x32@2x/actions,32x32@2x/apps,32x32@2x/emblems,32x32@2x/places,32x32@2x/status,48x48/actions,48x48/apps,48x48/devices,48x48/emblems,48x48/places,48x48/status,48x48@2x/actions,48x48@2x/apps,48x48@2x/emblems,48x48@2x/places,48x48@2x/status,8x8/emblems,8x8@2x/emblems
 
 [16x16/actions]
 Context=Actions
@@ -75,6 +75,11 @@ Context=Animations
 Size=22
 Type=Fixed
 
+[22x22/apps]
+Context=Apps
+Size=22
+Type=Fixed
+
 [22x22/panel]
 Context=Panel
 Size=22
@@ -82,6 +87,12 @@ Type=Fixed
 
 [22x22@2x/actions]
 Context=Actions
+Scale=2
+Size=22
+Type=Fixed
+
+[22x22@2x/apps]
+Context=Apps
 Scale=2
 Size=22
 Type=Fixed

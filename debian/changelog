@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (23.10) mantic; urgency=medium
+
+  * Use mantic wallpapers, update yaru cinnamon theme 
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 18 Sep 2023 09:27:05 -0400
+
 ubuntucinnamon-environment (23.04.5) lunar; urgency=medium
 
   * Drop user constraints on overrides (LP: #2016334)

@@ -1,0 +1,17 @@
+{
+  "styles": [
+    {
+      "name": "Yaru-Cinnamon",
+      "default": "dark",
+      "mixed": [
+          {"name": "orange", "color": "#dd682a", "themes": "Yaru-cinnamon", "icons": "Yaru-cinnamon", "cinnamon": "Yaru-cinnamon-dark", "cursor": "Yaru"}
+      ],
+      "dark": [
+          {"default": "true", "name": "orange", "color": "#d15e21", "themes": "Yaru-cinnamon-dark", "icons": "Yaru-cinnamon-dark", "cinnamon": "Yaru-cinnamon-dark", "cursor": "Yaru"}
+        ],
+      "light": [
+          {"name": "orange", "color": "#dd682a", "themes": "Yaru-cinnamon", "icons": "Yaru-cinnamon", "cinnamon": "Yaru-cinnamon", "cursor": "Yaru"}
+        ]
+     }
+   ]
+}

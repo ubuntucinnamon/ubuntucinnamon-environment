@@ -1,5 +1,5 @@
 [org.cinnamon.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/mantic/ubuntu_cinnamon_mantic_minotaur.jpg'
 
 [org.cinnamon.theme]
 name='Yaru-cinnamon-dark'
@@ -108,11 +108,11 @@ show-livepatch-status-icon=false
 
 
 [org.gnome.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg'
-picture-uri-dark='file:///usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/mantic/ubuntu_cinnamon_mantic_minotaur.jpg'
+picture-uri-dark='file:///usr/share/backgrounds/ubuntucinnamon/mantic/ubuntu_cinnamon_mantic_minotaur.jpg'
 
 [org.gnome.desktop.screensaver]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/mantic/ubuntu_cinnamon_mantic_minotaur.jpg'
 
 [org.gnome.desktop.interface]
 gtk-theme = 'Yaru-cinnamon'
