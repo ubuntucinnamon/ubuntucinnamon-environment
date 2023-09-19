@@ -1,0 +1,8 @@
+#!/bin/sh
+set -e
+
+if [ "$1" = remove ] || [ "$1" = purge ]; then
+  dpkg-divert --remove --rename --package ubuntucinnamon-environment --divert /usr/share/cinnamon/theme/thumbnail.png.distrib /usr/share/cinnamon/theme/thumbnail.png
+fi
+
+#DEBHELPER#

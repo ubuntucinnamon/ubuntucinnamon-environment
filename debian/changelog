@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (23.10.1) mantic; urgency=medium
+
+  * dpkg-divert /usr/share/cinnamon/theme/thumbnail.png due to conflict
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Tue, 19 Sep 2023 09:00:45 -0700
+
 ubuntucinnamon-environment (23.10) mantic; urgency=medium
 
   * Use mantic wallpapers, update yaru cinnamon theme 
