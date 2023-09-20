@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (23.10.2) mantic; urgency=medium
+
+  * Remove identical file /usr/share/cinnamon/thumbnails/cinnamon/unknown.png
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 19 Sep 2023 20:13:06 -0400
+
 ubuntucinnamon-environment (23.10.1) mantic; urgency=medium
 
   * dpkg-divert /usr/share/cinnamon/theme/thumbnail.png due to conflict
