@@ -1,4 +1,4 @@
-conf/live-settings/ubuntu-cinnamon-installer.service usr/lib/systemd/user
-conf/live-settings/whitelabel.yaml usr/share/desktop-provision
-conf/live-settings/images usr/share/desktop-provision
-conf/live-settings/slides usr/share/desktop-provision
+live/ubuntu-cinnamon-installer.service usr/lib/systemd/user
+live/desktop-provision/whitelabel.yaml usr/share/desktop-provision
+live/desktop-provision/images usr/share/desktop-provision
+live/desktop-provision/slides usr/share/desktop-provision
