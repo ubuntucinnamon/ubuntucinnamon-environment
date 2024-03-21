@@ -6,10 +6,11 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Yaru-cinnamon
-MetacityTheme=Yaru-cinnamon
+MetacityTheme=Yaru
 IconTheme=Yaru-cinnamon
-CursorTheme=Yaru-cinnamon
+CursorTheme=Yaru
 CursorSize=24
 X-Yaru-Dark=false
-X-Yaru-Accent-Name=default
-X-Yaru-Accent-Color=
+X-Yaru-Accent-Name=cinnamon
+X-Yaru-Accent-Color=#DD682A
+

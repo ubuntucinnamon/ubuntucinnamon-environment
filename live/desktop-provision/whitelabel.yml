@@ -1,0 +1,64 @@
+# (Optional) Drives overall behaviour for specific provisioners.
+#
+# Options:
+# - standard (default): the common provision flow for Ubuntu Desktop and Flavours
+# - oem: enables the eula page and disables the user creation page during bootstrap
+mode: standard
+
+# (Optional) When set, the light and dark theme is inherited from ubuntu-flutter-plugins and the distro name is set.
+#
+# Options:
+# - budgie
+# - cinnamon
+# - edubuntu
+# - kubuntu
+# - kylin
+# - lubuntu
+# - mate
+# - studio
+# - unity
+# - xubuntu
+flavor: cinnamon
+
+# (Optional) Sets the window's title (e.g. the text in alt|super + tab)
+#app-name: "Edubuntu Desktop Installer"
+
+# (Optional) Overrides the theme's accent colors
+theme:
+  light:
+    accent-color: "#DD682A"
+  #    elevated-button-color: <color-hex-code>
+  #    elevated-button-text-color: <color-hex-code>
+  dark:
+    accent-color: "#DD682A"
+#    elevated-button-color: <color-hex-code>
+#    elevated-button-text-color: <color-hex-code>
+
+# (Optional) Override a page's image asset.
+# Images expected in /usr/share/desktop-provision/images/<image-name>
+#
+# Bootstrap pages:
+# - locale: Select the interface language
+# - accessibility: Allow user to configure GNOME accessibility options
+# - rst: Identifies if the computer has Intel Rapid Storage Technology (rst) active
+# - keyboard: Set keyboard layout
+# - network: Connect to a network
+# - refresh: Expose installer's auto-update mechanism
+# - source: Install 3'rd party drivers and codecs
+# - not-enough-disk-space: Notifies if there is insufficient disk space
+# - secure-boot: Handles secure boot
+# - storage: Select target disk and partition
+# - identity: Create the first-user account (only displaed if mode = default)
+# - confirm: A summary of the installation and confirmation button to start the install
+#
+# Init pages (for oem only)
+# - identity: Create the first-user account
+# - ubuntu-pro: Enable Ubuntu Pro
+# - privacy: Enable location services
+# - timezone: Set the timezone
+# - telemetry: Enable sending telemetry
+pages:
+  locale:
+    image: "edubuntulogo.png"
+  try-or-install:
+    image: "edubuntulogo.png"
