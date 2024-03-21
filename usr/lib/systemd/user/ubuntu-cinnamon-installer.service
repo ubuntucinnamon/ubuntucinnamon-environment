@@ -8,5 +8,5 @@ After=graphical-session.target
 
 [Service]
 Type=oneshot
-ExecStart=sh -c "/snap/bin/ubuntu-cinnamon-installer --try-or-install"
+ExecStart=sh -c "/snap/bin/ubuntu-desktop-bootstrap --try-or-install"
 Restart=no
