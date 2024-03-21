@@ -18,6 +18,13 @@ Description: Ubuntu Cinnamon's Desktop Environment
  first glance, and is customizable to work anywhere, anytime you want at
  anywhere you need.
 
+Package: ubuntucinnamon-live-settings
+Architecture: all
+Depends: ${misc:Depends}
+Description: Configuration for the Ubuntu Cinnamon .iso image
+ This package contains customizations for the live Ubuntu Cinnamon
+ iso image.
+
 Package: yaru-cinnamon-theme-gtk
 Architecture: all
 Depends: gnome-themes-extra,
@@ -35,7 +42,6 @@ Description: Cinnamon version of the Ubuntu community "Yaru" GTK theme
  .
  If you want to follow development, more information here:
  https://community.ubuntu.com/c/desktop/theme-refresh
- https://github.com/Ubuntu-Cinnamon-Remix/yaru-cinnamon
 
 Package: yaru-cinnamon-theme-icon
 Architecture: all
@@ -49,4 +55,3 @@ Description: Cinnamon version of the Ubuntu community "Yaru" icon theme
  .
  If you want to follow development, more information here:
  https://community.ubuntu.com/c/desktop/theme-refresh
- https://github.com/Ubuntu-Cinnamon-Remix/yaru-cinnamon
