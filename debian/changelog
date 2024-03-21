@@ -1,3 +1,12 @@
+ubuntucinnamon-environment (24.04) noble; urgency=medium
+
+  * Add provisioning for new live installer
+    * new package ubuntucinnamon-live-settings
+  * Update yaru-cinnamon theme
+  * Update repository links
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 20 Mar 2024 20:57:48 -0400
+
 ubuntucinnamon-environment (23.10.2) mantic; urgency=medium
 
   * Remove identical file /usr/share/cinnamon/thumbnails/cinnamon/unknown.png
@@ -12,7 +21,7 @@ ubuntucinnamon-environment (23.10.1) mantic; urgency=medium
 
 ubuntucinnamon-environment (23.10) mantic; urgency=medium
 
-  * Use mantic wallpapers, update yaru cinnamon theme 
+  * Use mantic wallpapers, update yaru cinnamon theme
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 18 Sep 2023 09:27:05 -0400
 
