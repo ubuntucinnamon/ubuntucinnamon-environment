@@ -1,9 +1,16 @@
-ubuntucinnamon-environment (24.04.2) noble; urgency=medium
+ubuntucinnamon-environment (24.04.3) noble; urgency=medium
 
   * Installer logo: don't use white on white text (LP: #2062101)
   * Fix html
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 17 Apr 2024 22:01:05 -0400
+
+ubuntucinnamon-environment (24.04.2) noble; urgency=medium
+
+  * Replace the non-visible Ubuntu Cinnamon icon with a visible Noble mascot
+    (LP: #2060725).
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Tue, 09 Apr 2024 14:46:14 -0500
 
 ubuntucinnamon-environment (24.04.1) noble; urgency=medium
 
