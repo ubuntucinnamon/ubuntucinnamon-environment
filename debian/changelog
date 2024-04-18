@@ -1,6 +1,6 @@
 ubuntucinnamon-environment (24.04.2) noble; urgency=medium
 
-  * Installer logo: don't use white on white text
+  * Installer logo: don't use white on white text (LP: #2062101)
   * Fix html
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 17 Apr 2024 22:01:05 -0400
@@ -15,7 +15,7 @@ ubuntucinnamon-environment (24.04) noble; urgency=medium
 
   * Add provisioning for new live installer
     * new package ubuntucinnamon-live-settings
-  * Update yaru-cinnamon theme
+  * Update yaru-cinnamon theme (LP: #2056951)
   * Update repository links
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 20 Mar 2024 20:57:48 -0400
