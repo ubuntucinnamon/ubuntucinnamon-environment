@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (24.04.2) noble; urgency=medium
+
+  * Installer logo: don't use white on white text
+  * Fix html
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 17 Apr 2024 22:01:05 -0400
+
 ubuntucinnamon-environment (24.04.1) noble; urgency=medium
 
   * Fix installed icons
