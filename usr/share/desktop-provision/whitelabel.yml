@@ -21,7 +21,7 @@ mode: standard
 flavor: cinnamon
 
 # (Optional) Sets the window's title (e.g. the text in alt|super + tab)
-#app-name: "Edubuntu Desktop Installer"
+app-name: "Ubuntu Cinnamon Desktop Installer"
 
 # (Optional) Overrides the theme's accent colors
 theme:
