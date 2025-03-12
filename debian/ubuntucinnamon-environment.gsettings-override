@@ -1,5 +1,5 @@
 [org.cinnamon.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/oracular/ubuntu_cinnamon_oracular_oriole.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/plucky/ubuntu_cinnamon_plucky_puffin.jpg'
 
 [org.cinnamon.theme]
 name='Yaru-cinnamon-dark'
@@ -108,11 +108,11 @@ show-livepatch-status-icon=false
 
 
 [org.gnome.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/oracular/ubuntu_cinnamon_oracular_oriole.jpg'
-picture-uri-dark='file:///usr/share/backgrounds/ubuntucinnamon/oracular/ubuntu_cinnamon_oracular_oriole.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/plucky/ubuntu_cinnamon_plucky_puffin.jpg'
+picture-uri-dark='file:///usr/share/backgrounds/ubuntucinnamon/plucky/ubuntu_cinnamon_plucky_puffin.jpg'
 
 [org.gnome.desktop.screensaver]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/oracular/ubuntu_cinnamon_oracular_oriole.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/plucky/ubuntu_cinnamon_plucky_puffin.jpg'
 
 [org.gnome.desktop.interface]
 gtk-theme = 'Yaru-cinnamon'
