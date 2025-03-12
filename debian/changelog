@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (25.04) plucky; urgency=medium
+
+  * Update yaru theme
+  * Use plucky wallpapers
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 12 Mar 2025 19:04:24 -0400
+
 ubuntucinnamon-environment (24.10) oracular; urgency=medium
 
   * Use oracular wallpapers
