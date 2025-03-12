@@ -12,5 +12,5 @@ CursorTheme=Yaru
 CursorSize=24
 X-Yaru-Dark=false
 X-Yaru-Accent-Name=cinnamon
-X-Yaru-Accent-Color=#DD682A
-
+X-Yaru-Accent-Color=#dd682a
+/home/initu/Downloads/yaru-master/build/gtk/src/Yaru-cinnamon-cinnamon-accent-color-info.scss:50 DEBUG: Contrast optimized accent is #e27d48

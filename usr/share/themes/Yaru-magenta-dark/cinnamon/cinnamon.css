@@ -963,51 +963,6 @@ StScrollBar {
     font-size: 1.3em;
     padding-bottom: 12px; }
 
-.run-dialog {
-  padding: 10px 15px 10px 15px;
-  border: 1px solid #464646;
-  border-radius: 3px;
-  background-color: #272727; }
-  .run-dialog > * {
-    padding: 0; }
-  .run-dialog-label {
-    font-size: 1.3em;
-    font-weight: bold;
-    color: #F7F7F7;
-    padding-bottom: 15px;
-    text-align: center; }
-  .run-dialog-description {
-    color: #F7F7F7;
-    padding-top: 15px;
-    text-align: center; }
-    .run-dialog-description.error {
-      color: #c7162b; }
-  .run-dialog-completion-box {
-    padding-top: 5px;
-    padding-left: 15px;
-    font-size: 1em; }
-  .run-dialog-entry {
-    width: 21em;
-    height: 1.2em;
-    padding: 7px;
-    border-radius: 3px;
-    caret-color: #eeeeec;
-    selected-color: white;
-    selection-background-color: #a546a5;
-    color: #eeeeec;
-    background-color: rgba(85, 85, 85, 0.375);
-    border: 1px solid rgba(0, 0, 0, 0.375);
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05); }
-    .run-dialog-entry:focus {
-      color: #F7F7F7;
-      background-color: #222222;
-      border: 1px solid #a546a5;
-      box-shadow: inset 0 2px 4px rgba(34, 34, 34, 0.05); }
-  .run-dialog .modal-dialog-button-box {
-    border: none;
-    box-shadow: none;
-    background: none; }
-
 /* CinnamonMountOperation Dialogs */
 .cinnamon-mount-operation-icon {
   icon-size: 48px; }
