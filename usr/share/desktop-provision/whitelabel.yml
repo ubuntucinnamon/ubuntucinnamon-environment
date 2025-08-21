@@ -59,6 +59,6 @@ theme:
 # - telemetry: Enable sending telemetry
 pages:
   locale:
-    image: "ubuntucinnamonlogo.png"
+    image: "ubuntucinnamon_text_logo.png"
   try-or-install:
-    image: "ubuntucinnamonlogo.png"
+    image: "ubuntucinnamon_text_logo.png"
