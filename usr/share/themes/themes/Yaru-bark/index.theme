@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Yaru-bark
+Type=X-GNOME-Metatheme
+Comment=Ubuntu Yaru-bark theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Yaru-bark
+MetacityTheme=Yaru
+IconTheme=Yaru-bark
+CursorTheme=Yaru
+CursorSize=24
+X-Yaru-Dark=false
+X-Yaru-Accent-Name=bark
+X-Yaru-Accent-Color=#787859
+X-Yaru-Accent-Color-Optimized=#959570

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Yaru-viridian
+Type=X-GNOME-Metatheme
+Comment=Ubuntu Yaru-viridian theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Yaru-viridian
+MetacityTheme=Yaru
+IconTheme=Yaru-viridian
+CursorTheme=Yaru
+CursorSize=24
+X-Yaru-Dark=false
+X-Yaru-Accent-Name=viridian
+X-Yaru-Accent-Color=#03875B
+X-Yaru-Accent-Color-Optimized=#04a871
