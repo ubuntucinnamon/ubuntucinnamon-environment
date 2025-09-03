@@ -1,3 +1,14 @@
+ubuntucinnamon-environment (25.10.2) questing; urgency=medium
+
+  * Update Yaru Cinnamon theme
+  * Update gsettings overrides
+  * Update control to use questing wallpapers
+  * Revert installer slideshow attempt for 25.10 release
+  * Remove unneeded thumbnail.png image, now in upstream
+  * Remove dpkg-diverts
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Wed, 03 Sep 2025 18:28:58 -0400
+
 ubuntucinnamon-environment (25.10.1) questing; urgency=medium
 
   * Add initial slideshow
