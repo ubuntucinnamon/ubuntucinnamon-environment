@@ -12,8 +12,6 @@ cursor-theme='Yaru'
 clock-show-date=true
 clock-show-seconds=true
 font-name='Ubuntu 11'
-document-font-name='Ubuntu 11'
-monospace-font-name='Ubuntu Mono 11'
 
 [org.nemo.desktop]
 computer-icon-visible=true
@@ -39,10 +37,8 @@ thumbnail-limit=uint64 4294967295
 auto-indent=true
 bracket-matching=true
 display-line-numbers=true
-display-overview-map=true
 display-right-margin=true
 highlight-current-line=true
-scheme='oblivion'
 search-highlighting=true
 syntax-highlighting=true
 tabs-size=uint32 4
@@ -81,7 +77,6 @@ unplug-enabled=true
 [org.cinnamon.desktop.sound]
 event-sounds=true
 input-feedback-sounds=true
-maximum-volume=100
 theme-name="Yaru"
 volume-sound-enabled=true
 volume-sound-file="/usr/share/sounds/Yaru/stereo/audio-volume-change.oga"
