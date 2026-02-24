@@ -1,3 +1,9 @@
+ubuntucinnamon-environment (26.04.2) resolute; urgency=medium
+
+  * desktop-provision: Fix slides that were impacted by autoformat 
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Tue, 24 Feb 2026 14:42:45 -0500
+
 ubuntucinnamon-environment (26.04.1) resolute; urgency=medium
 
   * Bring back (WIP) installer slideshow
