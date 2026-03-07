@@ -1,5 +1,5 @@
 [org.cinnamon.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon.png'
 
 [org.cinnamon.theme]
 name='Yaru-cinnamon-dark'
@@ -103,11 +103,11 @@ show-livepatch-status-icon=false
 
 
 [org.gnome.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka.jpg'
-picture-uri-dark='file:///usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon.png'
+picture-uri-dark='file:///usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon.png'
 
 [org.gnome.desktop.screensaver]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/questing/ubuntu_cinnamon_questing_quokka.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/resolute/ubuntu_cinnamon_resolute_raccoon.png'
 
 [org.gnome.desktop.interface]
 gtk-theme = 'Yaru-cinnamon'
