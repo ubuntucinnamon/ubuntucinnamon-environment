@@ -60,9 +60,9 @@ theme:
 pages:
   welcome:
     image: "ubuntucinnamon_text_logo.png"
-    # We will try this for now, see what happens
-    image-dark: "ubuntucinnamon_text_logo.png"
   locale:
     image: "ubuntucinnamon_text_logo.png"
+    # We will try this for now, see what happens
+    image-dark: "ubuntucinnamon_text_logo.png"
   try-or-install:
     image: "ubuntucinnamon_text_logo.png"
