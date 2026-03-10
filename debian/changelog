@@ -1,3 +1,16 @@
+ubuntucinnamon-environment (26.04.6) resolute; urgency=medium
+
+  * Update icon themes
+  * Remove extraneous usr/share/themes/themes dir
+  * Yaru variants: Move thumbnails to correct dir
+  * Update neutral Ubuntu-Cinnamon theme
+  * Update Yaru-cinnamon and Yaru-cinnamon-dark themes
+  * Update yaru-cinnamon styles
+  * Optimize desktop-provision images
+  * Move cinnamon thumbnails
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Tue, 10 Mar 2026 12:11:58 -0400
+
 ubuntucinnamon-environment (26.04.5) resolute; urgency=medium
 
   * desktop-provision: fix dark image locale section
