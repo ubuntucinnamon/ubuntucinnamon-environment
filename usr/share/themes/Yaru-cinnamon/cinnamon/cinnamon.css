@@ -963,6 +963,32 @@ StScrollBar {
     font-size: 1.3em;
     padding-bottom: 12px; }
 
+.prompt-dialog-password-entry {
+    width: 20em;
+    min-height: 22px;
+    padding: 6px 9px;
+    border-radius: 8px;
+    caret-color: #eeeeec;
+    selected-color: white; }
+  
+.prompt-dialog .dialog-button:default {
+    font-weight: bold;
+    border-radius: 12px;
+    background-color: #DD682A; }
+.prompt-dialog .dialog-button:default:focus {
+    color: #F7F7F7;
+    background-color: #DD682A; }
+.prompt-dialog .dialog-button:default:hover, .prompt-dialog .dialog-button:default:hover:focus, .prompt-dialog .dialog-button:default:checked, .prompt-dialog .dialog-button:default:checked:focus {
+    font-weight: bold;
+    color: #F7F7F7;
+    background-color: #DD682A; }
+.prompt-dialog .dialog-button:default:active, .prompt-dialog .dialog-button:default:active:focus {
+    color: #F7F7F7;
+    background-color: #DD682A; }
+.prompt-dialog .dialog-button:default:insensitive {
+    color: #F7F7F7;
+    background-color: #DD682A; }
+
 /* CinnamonMountOperation Dialogs */
 .cinnamon-mount-operation-icon {
   icon-size: 48px; }
