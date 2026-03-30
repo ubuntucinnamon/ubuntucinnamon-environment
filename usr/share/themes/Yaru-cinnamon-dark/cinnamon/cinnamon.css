@@ -981,7 +981,7 @@ StScrollBar {
   .prompt-dialog .dialog-button:default:hover, .prompt-dialog .dialog-button:default:hover:focus, .prompt-dialog .dialog-button:default:checked, .prompt-dialog .dialog-button:default:checked:focus {
     font-weight: bold;
     color: #F7F7F7;
-    background-color: #DD682A; }
+    background-color: #de6f34; }
   .prompt-dialog .dialog-button:default:active, .prompt-dialog .dialog-button:default:active:focus {
     color: #F7F7F7;
     background-color: #DD682A; }
