@@ -1,3 +1,16 @@
+ubuntucinnamon-environment (26.04.7) resolute; urgency=medium
+
+  * Final cinnamon theming updates for release
+    * Remove bark and viridian variants; have no corresponding GTK
+      theme.
+    * Theme prompt dialog for pkexec/password authentication
+    * Yaru-cinnamon themes: Password entry - fix hover color
+
+  * slideshow: fix image padding on left-image slides
+  * slideshow: fix image padding on applet slide
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Mon, 30 Mar 2026 10:01:19 -0400
+
 ubuntucinnamon-environment (26.04.6) resolute; urgency=medium
 
   * Update icon themes
