@@ -1,3 +1,10 @@
+ubuntucinnamon-environment (26.10.1) stonking; urgency=medium
+
+  * Update cinnamon theming
+  * Use stonking wallpapers
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Sun, 20 Sep 2026 16:32:46 -0400
+
 ubuntucinnamon-environment (26.04.7) resolute; urgency=medium
 
   * Final cinnamon theming updates for release
