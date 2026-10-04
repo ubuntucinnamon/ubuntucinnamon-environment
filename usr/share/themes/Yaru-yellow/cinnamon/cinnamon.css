@@ -747,8 +747,7 @@ StScrollBar {
   .calendar-day-base:hover {
     font-weight: bold;
     color: white;
-    background-color: #a86800;
-    border-radius: 6px; }
+    background-color: #a86800; }
 
 .calendar-day-heading {
   color: rgba(61, 61, 61, 0.85);
