@@ -1,3 +1,11 @@
+ubuntucinnamon-environment (26.10.2) stonking; urgency=medium
+
+  * d/control: depend on cinnamon instead of cinnamon-core (LP: #2169484)
+  * Yaru + variants cinnamon support: fixes (LP: #2169487)
+    * Update Yaru-cinnamon themes
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Sun, 04 Oct 2026 16:06:21 -0400
+
 ubuntucinnamon-environment (26.10.1) stonking; urgency=medium
 
   * Update cinnamon theming
