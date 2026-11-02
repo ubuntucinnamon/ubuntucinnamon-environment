@@ -1,10 +1,8 @@
 Source: ubuntucinnamon-environment
-Maintainer: Joshua Peisach <itzswirlz2020@outlook.com>
+Maintainer: Joshua Peisach <jpeisach@ubuntu.com>
 Section: misc
-Priority: optional
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.1
-Rules-Requires-Root: no
 Homepage: https://github.com/ubuntucinnamon/
 Vcs-Browser: https://github.com/ubuntucinnamon/ubuntucinnamon-environment
 Vcs-Git: https://github.com/ubuntucinnamon/ubuntucinnamon-environment.git
@@ -27,17 +25,14 @@ Description: Configuration for the Ubuntu Cinnamon .iso image
 
 Package: yaru-cinnamon-theme-gtk
 Architecture: all
-Depends: gnome-themes-extra,
- gtk2-engines-pixbuf,
- gtk2-engines-murrine,
- ${misc:Depends}
+Depends: gnome-themes-extra, ${misc:Depends}
 Description: Cinnamon version of the Ubuntu community "Yaru" GTK theme
  This is the theme, better than a burrito, that is shaped by the community
  on the Ubuntu discourse. This version however is colorized to the Cinnamon
  #DD682A color scheme and comes with Cinnamon DE and Metacity Window Manager
  support.
  .
- This package contains the GTK+ 2 and 3 theme parts, along with Cinnamon and
+ This package contains the GTK+ 3 and 4 theme parts, along with Cinnamon and
  Metacity support.
  .
  If you want to follow development, more information here:
