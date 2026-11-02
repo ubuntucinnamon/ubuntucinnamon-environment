@@ -1,3 +1,13 @@
+ubuntucinnamon-environment (27.04.1) tenacious; urgency=medium
+
+  * Remove Yaru-Cinnamon gtk2 themes (LP: #2157998)
+  * Update debian/control
+    - Remove Priority, Rules-Requires-Root field, update my email
+    - Remove gtk2 theme dependencies, and GTK 2 support in the
+      description (and now say we support GTK 4)
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Mon, 02 Nov 2026 17:54:10 -0500
+
 ubuntucinnamon-environment (26.10.2) stonking; urgency=medium
 
   * d/control: depend on cinnamon instead of cinnamon-core (LP: #2169484)
